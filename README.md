@@ -1,2 +1,2 @@
 # General-connections
-**Wall magazine** general connections between computer parts
+**Wall magazine**, general connections between computer parts
