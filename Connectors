@@ -4,4 +4,7 @@ VGA: A VGA is used to transmit data from computers CPUs to the monitor. They are
 
 USB: A plug and play interface that allows a computer to communicate with peripheral and other devices. It's full name is Universal Serial Bus. 
 Type-C cable is standard and very common USB type we see nowadays. A desktop computer usually has two to four ports in the front and two to eight ports in the back.
+Devices like, Keyboard, Mouse, Printer, Scanner can be connected to computer with USB cable.
+USB versions such as, USB 1.x, USB 2.0, USB 3.0 denotes how fast a USB is.
 
+CPU socket: A CPU socket or processor socket is a connection that allows a computer processor to be connected to a motherboard.
