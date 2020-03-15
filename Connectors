@@ -12,5 +12,6 @@ CPU socket: A CPU socket or processor socket is a connection that allows a compu
 Slot: Bus slot/Expansion slot is a connection or port inside a computer on the motherboard or riser card that provides an installation point for a hardware expansion card to be connected.
 Below is a listing of expansion slots commonly found in a computer and the devices associated with those slots:
 AGP - Video card.
-PCI - Network card, SCSI, sound card, video card.
+PCI - Network card, SCSI, sound card.
+PCI Express - Video card, modem, sound card, network card.
 Memory Slot - Ram.
