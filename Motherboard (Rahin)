@@ -34,7 +34,9 @@ most have required CPU fans mounted on their heat sinks, due to rising clock spe
 Most motherboards have connectors for additional computer fans and integrated temperature sensors to detect motherboard and
 CPU temperatures and controllable fan connectors which the BIOS or operating system can use to regulate fan speed.
 Alternatively computers can use a water cooling system instead of many fans.
-CPU sockets
+
+
+** CPU sockets: **
 A CPU socket (central processing unit) or slot is an electrical component that attaches to a Printed Circuit Board (PCB) and is designed
 to house a CPU (also called a microprocessor). It is a special type of integrated circuit socket designed for very high pin counts. 
 A CPU socket provides many functions, including a physical structure to support the CPU, support for a heat sink, facilitating 
