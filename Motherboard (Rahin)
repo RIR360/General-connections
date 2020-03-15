@@ -25,7 +25,7 @@ computers such as the IBM PC Jr. Additional peripherals such as disk controllers
 Given the high thermal design power of high-speed computer CPUs and components, modern motherboards nearly always include heat sinks
 and mounting points for fans to dissipate excess heat.
 
-Cooling Of Computer
+** Cooling Of Computer **
 Motherboards are generally air cooled with heat sinks often mounted on larger chips, such as the Northbridge, in modern motherboards.
 Insufficient or improper cooling can cause damage to the internal components of the computer, or cause it to crash. Passive cooling,
 or a single fan mounted on the power supply, was sufficient for many desktop computer CPU's until the late 1990s; since then, 
