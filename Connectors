@@ -1,3 +1,5 @@
 Bus: A communication system that transfers data between components inside computer.
 
 VGA: A VGA is used to transmit data from computers CPUs to the monitor. They are also found in many video cards and television sets. It's full name is Video graphcis Array. VGA have 3-row 15 pin DE connectors.
+
+USB: A plug and play interface that allows a computer to communicate with peripheral and other devices. It's full name is Universal Serial Bus.
