@@ -1,19 +1,18 @@
 Introduction Of motherboard:
-A motherboard (alternatively known as the mainboard, main circuit board, system board, baseboard, planar board or logic board, 
-or colloquially, a mobo) is the main printed circuit board (PCB) found in general purpose computers and other expandable systems. 
-It holds, and allows, communication between many of the crucial electronic components of a system, such as the central processing unit (CPU) and memory, 
+A motherboard (alternatively known as the mainboard or main circuit board) is the main printed circuit board (PCB) found in general purpose computers and other expandable systems. 
+It holds, and allows, communication between many of the crucial electronic components of a system, such as the central processing unit (CPU) and memory(RAM), 
 and provides connectors for other peripherals. Unlike a backplane, a motherboard usually contains significant sub-systems such as the central processor, 
 the chipset's input/output and memory controllers, interface connectors, and other components integrated for general purpose use and applications.
-A motherboard provides the electrical connections by which the other components of the system communicate. Unlike a backplane, 
-it also contains the central processing unit and hosts other subsystems and devices.
-Modern motherboards includes:
-•	Sockets (or slots) in which one or more microprocessors may be installed. In the case of CPUs in ball grid array packages, such as the VIA C3,
-  the CPU is directly soldered to the motherboard. 
-•	Memory Slots into which the system's main memory is to be installed, typically in the form of DIMM modules containing DRAM chips
-•	A chipset which forms an interface between the CPU's front-side bus, main memory, and peripheral buses
-•	Non-volatile memory chips (usually Flash ROM in modern motherboards) containing the system's firmware or BIOS
+A motherboard provides the electrical connections by which the other components of the system communicate.
+
+** Modern motherboards includes: **
+
+•	Sockets (or slots) in which one or more microprocessors may be installed. In the case of CPUs in ball grid array packages, such as the VIA C3, the CPU is directly soldered to the motherboard. 
+•	Memory Slots into which the system's main memory is to be installed, typically in the form of DIMM modules containing DRAM chips.
+•	A chipset which forms an interface between the CPU's front-side bus, main memory, and peripheral buses.
+•	Non-volatile memory chips (usually Flash ROM in modern motherboards) containing the system's firmware or BIOS.
 •	A clock generator which produces the system clock signal to synchronize the various components
-•	Slots for expansion cards (the interface to the system via the buses supported by the chipset)
+•	Slots for expansion cards. (the interface to the system via the buses supported by the chipset)
 •	Power connectors, which receive electrical power from the computer power supply and distribute it to the CPU, chipset, main memory,
   and expansion cards. As of 2007, some graphics cards (e.g. GeForce 8 and Radeon R600) require more power than the motherboard can
   provide, and thus dedicated connectors have been introduced to attach them directly to the power supply. 
