@@ -3,10 +3,7 @@ A monitor is an output device that displays video, images, and text on it's scre
 It usually shows the work goning on in side a computer system.
 Monitor can be connected with computer through various cables like HDMI, USB-C, VGA, and DisplayPort etc. 
 Here VGA port is more common method to connect monitor with PC.
-Monitor is usually connected with the motherboard of the computer.
-We can change various options and functions in a computer with the help of the monitor.
-Without it the computer is paralyzed, we also cannot run it properly without monitor.
-
-line-7: We can see changes of various options and functions in a computer with the help of the monitor.
-line-8: Without it the computer is paralyzed, we cannot see any operations of our computer without monitor.
+Monitor is usually connected with the VGA port of motherboard of the computer.
+We can see changes of various options and functions in a computer with the help of the monitor.
+Without it the computer is paralyzed, we cannot see any operations of our computer without monitor.
 
