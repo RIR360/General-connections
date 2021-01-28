@@ -1,4 +1,4 @@
-** intro **
+# intro
 
 Computer mouse (plural mice or mouses) is known as a computer hardware. It is the external hardware which 
 works as a pointer(user interface pointer).A computer mouse is a hand-held pointing device that detects 
@@ -9,7 +9,7 @@ The mouse turns movements of the hand backward and forward, left and right into 
 signals that in turn are used to move the pointer.  
 
 
-** Connections **
+# Connections
 
 1. The industry-standard USB (Universal Serial Bus) protocol and its connector have become widely used for mice; 
 it is among the most popular types.
