@@ -21,3 +21,6 @@ We're going add these contents on the wall megazine. Information about 12 differ
 * Processor
 * Sound Card
 * Speaker
+# Reference Sites
+* [Computer Hope](https://www.computerhope.com/)
+* [Wikipedia](https://www.wikipedia.org/)
