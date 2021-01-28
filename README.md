@@ -6,15 +6,15 @@
 
 # Contents:
 We're going add these contents on the wall megazine. Information about 12 different components of computer and connectors.
-## RAHIN
-* Motherboard
+## [RAHIN](https://github.com/RIR360/General-connections/tree/master/Rahin)
+* [Motherboard](https://github.com/RIR360/General-connections/tree/master/Rahin)
 * Connectors
 * DVD
 * Keyboard
 * Mouse
 * Power Supply
-## Rizvy
-* Graphics Card
+## [Rizvy]https://github.com/RIR360/General-connections/tree/master/Rizvy
+* [Graphics Card]https://github.com/RIR360/General-connections/tree/master/Rizvy
 * Hard Drive
 * Memory
 * Monitor
