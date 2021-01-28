@@ -13,8 +13,8 @@ We're going add these contents on the wall megazine. Information about 12 differ
 * Keyboard
 * Mouse
 * Power Supply
-## [Rizvy]https://github.com/RIR360/General-connections/tree/master/Rizvy
-* [Graphics Card]https://github.com/RIR360/General-connections/tree/master/Rizvy
+## [Rizvy](https://github.com/RIR360/General-connections/tree/master/Rizvy)
+* [Graphics Card](https://github.com/RIR360/General-connections/tree/master/Rizvy)
 * Hard Drive
 * Memory
 * Monitor
